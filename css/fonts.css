@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'conduit_itc_light';
+    src: url('../fonts/conduit_itc_light-webfont.woff2') format('woff2'),
+         url('../fonts/conduit_itc_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'conduit_itc_medium';
+    src: url('../fonts/conduit_itc_medium-webfont.woff2') format('woff2'),
+         url('../fonts/conduit_itc_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

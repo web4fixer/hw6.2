@@ -1,0 +1,79 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+ * 
+ {
+    margin: 0;
+    padding: 0;
+ 	box-sizing: border-box;
+ }
+body {
+    font-family: conduit_itc_medium,'conduit_itc_light', sans-serif;
+    
+}
+h1,h2,h3{
+    color: #0076ad;
+}
+
+ul {
+    padding:0 17px 15px;
+}
+li { 
+    color: #f39b00;
+    list-style-type: disc;
+}
+span{
+    font-family:'conduit_itc_light', sans-serif; 
+    color: #646464;
+    font-size: 14px;
+}
+header{
+    border-top: 5px solid #0076ad;;
+    border-bottom: 5px solid #0076ad;;
+}
+.top_text h1{
+    font-size: 32px;
+    margin: 0;
+}
+.top_text h2{
+    font-size: 20px;
+}
+.top_text p{
+    font-size: 12.48px;
+    margin: 2px;
+    font-weight: bold;
+}
+.page-wrapper {
+    margin: 0 auto;
+    width: 980px;
+    min-height: 100%;
+    padding: 15px;
+}
+.page-banner{
+    width: 100%;
+}
+.main{
+    padding-top: 15px;
+    width: 70%;
+    float: left;
+}
+.sidebar{
+    padding-top: 30px;
+    width: 30%;
+    float: right;
+}
+.sidebar-top{
+    padding-bottom: 25%;
+}
+.sidebar-top-text{
+    font-weight: bold;
+    color: #000;
+}
+.sidebar-top a:hover{
+    text-decoration: none;
+}
+.sidebar-bottom :first-child {
+    padding-right: 20px;
+}
